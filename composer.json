@@ -11,11 +11,12 @@
         }
     ],
     "require": {
-        "league/glide-symfony": "^1.0"
+        "php": ">=8.3",
+        "league/glide-symfony": "^2"
     },
     "require-dev": {
-        "mockery/mockery": "^0.9",
-        "phpunit/phpunit": "^4.0"
+        "mockery/mockery": "^1",
+        "phpunit/phpunit": "^12"
     },
     "autoload": {
         "psr-4": {
