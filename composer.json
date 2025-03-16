@@ -1,5 +1,5 @@
 {
-    "name": "league/glide-laravel",
+    "name": "viktorjamrich/glide-laravel",
     "description": "Glide adapter for Laravel",
     "homepage": "http://glide.thephpleague.com",
     "license": "MIT",
